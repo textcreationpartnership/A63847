@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached October the 19, 1690, before the right worshipful the mayor, aldermen, and sheriff, &amp;c. of the town and county of New-Castle upon Tyne being the day appointed for a general thanks giving for His Majesties's safe return and happy success in Ireland / by Geo. Tullie ...</title>
+            <author>Tullie, George, 1652?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63847</idno>
+            <idno type="STC">Wing T3242</idno>
+            <idno type="STC">ESTC R5463</idno>
+            <idno type="EEBO-CITATION">12635644</idno>
+            <idno type="OCLC">ocm 12635644</idno>
+            <idno type="VID">64858</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64858)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 337:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached October the 19, 1690, before the right worshipful the mayor, aldermen, and sheriff, &amp;c. of the town and county of New-Castle upon Tyne being the day appointed for a general thanks giving for His Majesties's safe return and happy success in Ireland / by Geo. Tullie ...</title>
+                  <author>Tullie, George, 1652?-1695.</author>
+               </titleStmt>
+               <extent>[5], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. White ... and are to be sold by Joseph Hall ...,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 26.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Sermons.</term>
+               <term>Bible. --  O.T. --  Proverbs XXIX, 2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:64858:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Carolous Palmer.</hi> R<hi rend="sup">mo.</hi> 
+                        <hi>in Chriſto</hi> Pa. ac D<hi rend="sup">no.</hi> D<hi rend="sup">••</hi>
+                     </item>
+                     <item>Thomae <hi>Archiepiſc.</hi> Ebor. à Sacris.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:64858:1"/>
+            <p>A SERMON, Preached October, the 19, 1690. Before the Right Worſhipful the <hi>Mayor, Alder<g ref="char:EOLhyphen"/>men,</hi> and <hi>Sheriff,</hi> &amp;c. <hi>OF THE</hi> Town and County of <hi>New-Caſtle</hi> upon <hi>Tyne:</hi>
+            </p>
+            <p>BEING THE Day appointed for a General Thanks Giving for His Majeſtie's ſafe Return, and Happy Succeſs in <hi>Ireland.</hi>
+            </p>
+            <p>By <hi>Geo: Tullie,</hi> Sub-Dean of <hi>York,</hi> and Preacher at <hi>New-Castle</hi> upon <hi>Tyne.</hi>
+            </p>
+            <p>
+               <hi>YORK,</hi> Printed by <hi>J. White,</hi> Their Majeſties Printer for the City of <hi>York<g ref="char:punc">▪</g>
+               </hi> and the Five <hi>Northern-Counties:</hi> And are to be Sold by <hi>Joſeph Hall,</hi> Book-ſeller on <hi>Tyne Bridge, New-Caſtle</hi> upon <hi>Tyne,</hi> 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64858:2"/>
+            <pb facs="tcp:64858:2"/>
+            <head>To the Right Worſhipful THE <hi>MAYOR, ALDERMEN</hi> and <hi>SHERIFF,</hi> &amp;c. of <hi>New-Caſtle</hi> upon <hi>Tyne.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WHEN, upon the Solicitations of ſome of my Friends, I reſolv'd to Publiſh this <hi>Sermon</hi> I was ſoon determin'd to Dedicate it to You who were my Principal Auditory; and did me at first the Civility of an Invitation down amongst You; which I think my ſelf bound to acknowledge to the <hi>World</hi> upon all fair Occaſions: Just, and elaborate Diſcourſes are not to be expected from <g ref="char:V">Ʋ</g>s who bear the un-interrupted heat and burthen of the Day; but ſuch as it is I preſent you with it. And that <hi>GOD</hi> would proſper You, and your <hi>Opulent Town,</hi> and my poor Labours amongst You, is the hearty Prayers of</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed>Your Obedient Faithfull, Servant. GEO: TULLIE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:64858:3"/>
+            <pb n="1" facs="tcp:64858:3"/>
+            <epigraph>
+               <bibl>Proverbs, 29, 2.</bibl>
+               <q>When the Righteous are in Authority, the People rejoyce: but when the wicked bear Rule, the People mourn.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N which words the wiſe King and Politician has briefly repreſented to us the happineſs of a People under good and virtuous Princes, and their unhappineſs, on the o<g ref="char:EOLhyphen"/>ther ſide, under thoſe that are bad; Under the Government of the one, <hi>The People ſhall re<g ref="char:EOLhyphen"/>joyce,</hi> (and here they won't rejoyce for nothing) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſay the <hi>Septuagint;</hi> ſhall be <hi>merry</hi> or <hi>Cheerfull;</hi> Serenity ſhall poſſeſs their Soules and ſit upon their Countenances; but under the con<g ref="char:EOLhyphen"/>duct of the other, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Men groan,) and ſurely they groan not for nothing neither (and ſigh, as is ſaid of the <hi>Iſraelites</hi> in <hi>Aegypt, by reaſon of their boudage;</hi> there being this, amongſt other dif<g ref="char:EOLhyphen"/>ferences, betwixt Divine Inflictions, and the Injuries
+<pb n="2" facs="tcp:64858:4"/> done us by Great Men in Authority, that we have liberty to pour out our Complaints, and to remonſtrate to the one, under the Senſe of his hand bearing hard upon us, whil'ſt a Profound ſilence, and a Private ſigh is many times both our Pru<g ref="char:EOLhyphen"/>dence, and our Refuge under the Preſſures of the other.</p>
+            <p>My buſineſs ſhall be at this time, to illuſtrate, and confirm the two Oppoſite Aſſertions of the Text, by ſhewing what juſt <hi>Occaſion and Matter</hi> of Rejoyceing this People will have, <hi>When the Righteous are in Authority,</hi> and what <hi>Reaſons</hi> they will have, on the contrary, to mourn, when the wicked bear Rule; which done, we ſhall bring the former of the two Propoſitions to the Occaſion of the day; inverting only the order of the Text, and giving the wicked Man, for once, the pre<g ref="char:EOLhyphen"/>cedency of the Righteous, becauſe it falls in more naturaly with our Purpoſe.</p>
+            <p>
+               <hi>Firſt,</hi> Then of the unhappy Occaſions of mourn<g ref="char:EOLhyphen"/>ing to a People, <hi>when the wicked bear Rule.</hi>
+            </p>
+            <p>Where, before we proceed, it will be neceſſary to premiſe that <hi>Aphoriſms</hi> of this kind concerning Moral and Civil Affaires are not to be taken in a Strickt and rigorous Senſe, as if they never fail'd
+<pb n="3" facs="tcp:64858:4"/> in any one ſingle inſtance; there truth is ſufficiently atteſted, if for the moſt part, and generally ſpeak<g ref="char:EOLhyphen"/>ing, we may relie upon them.</p>
+            <p>Thus, to inſtance in the caſe before us, accord<g ref="char:EOLhyphen"/>ing to the common courſe of things, and the or<g ref="char:EOLhyphen"/>dinary Methods of God's Providence, 'tis highly probable that a people will be miſerable, under the Conduct of wicked, and ungodly Princes, and yet, without any juſt detraction from the truth of King <hi>Solomon's</hi> Aphoriſm, it may ſo fall out, whe<g ref="char:EOLhyphen"/>ther by the great Abilities of a wicked Man for Government, notwithſtanding the Corruption of his Morals, as in the caſe of the late Grand Uſur<g ref="char:EOLhyphen"/>per, and our neighbouring Prince, or through ſome ſecret deſigns that Providence has on foot, that a people may have ſome juſt matter of re<g ref="char:EOLhyphen"/>joyceing, as by being great, and formidable to the Nations round about them, &amp;c. under a flagitious, and ungodly Tyrant.</p>
+            <p>And thus, again, on the other hand, tho, in all humane probability, the Land will have juſt Occaſi<g ref="char:EOLhyphen"/>on to rejoyce, when a Brave, and Pious Prince ſitts at the Helm, and it may juſtly be preſum'd, that He will render both Himſelf, and People happy, yet it may ſo fall out, through the diſ<g ref="char:EOLhyphen"/>poſal
+<pb n="4" facs="tcp:64858:5"/> of the Al-wiſe Providence, and many times doubtleſs by reaſon of the Sins of the people, not the Prince, that both He, and the Land may mourn, notwithſtanding the righteouſneſs of His own Life, as in the Caſe doubtleſs of that Unfortunate Prince, King <hi>Charles</hi> the Martyr.</p>
+            <p>And haveing premiſed thus much, I go on to illuſtrate, and confirm the truth of the Aſſertion laid down.</p>
+            <p>
+               <hi>First,</hi> then when the wicked bear rule, the Land, in all probability, will have too juſt reaſon to mourn for thoſe many, and extreme calamities which an ill Man, arm'd with Power, will be apt to bring upon the State. Tis one of the bittereſt curles of all that long, and black Catologue which <hi>David</hi> in the 109, <hi>Pſalm</hi> layes upon his Adverſa<g ref="char:EOLhyphen"/>ries, as 'tis ſuppos'd under the Perſon of Judas: <hi>That God would ſet an <g ref="char:V">Ʋ</g>ngodly Man to be ruler over him, and let Satan ſtand at hisright hand.</hi> For what Miſeries and Hardſhips may not one expect from Him, who has miſchief in his heart, and Power in his hand and the Devil Preſident of his Councels? And whatſoever the Character of the moſt Flagi<g ref="char:EOLhyphen"/>tious Princes, like that of all other Supreme Ma<g ref="char:EOLhyphen"/>giſtrates in other forms of Government, is ſo far
+<pb n="5" facs="tcp:64858:5"/> forth Divine, as the Original Juſtitution of Rule, in the General, is ſuch; yet we have little reaſon to expect that ſuch an one will do the work of him that ſent him: But of his Father the Devil; and what good will He bears to Mankind, eſpecially to the better part of it, when He has got a Power<g ref="char:EOLhyphen"/>fvl Inſtrument in his hands to his purpoſe, we need not look ſo far back as the Reigns of <hi>Nero, Do<g ref="char:EOLhyphen"/>mitian, Diocleſian, Maximian,</hi> or the like, we need not <hi>ask our Fathers,</hi> that they may tell us; the ſcenes of blood, and inhumanity not long ſince o<g ref="char:EOLhyphen"/>pen'd in our Neighbour Nation will inform us.</p>
+            <p>It were a tedious, and but a melancholy province to ſumm up all theſe ſeveral, and heavy Calamities which are but the too uſual attendants of a wicked, and ungodly Reign. <hi>Samuel</hi> in his firſt Book and eighth Chapter has given us a competent Catalogue of them in acquainting the <hi>Iſraelites</hi> with the <hi>man<g ref="char:EOLhyphen"/>ner</hi> of the King which they ſo earneſtly deſired to Reign over them: Not that Kingly Government, as ſome <hi>Enthuſiaſts,</hi> and ſeveral <hi>Jewiſh Rabbies</hi> ima<g ref="char:EOLhyphen"/>gine, was diſpleaſing to God, which is for Kind ſo near a Reſemblance of his own, but becauſe they asked <hi>amiſs,</hi> in a grumbling and a mutinous manner; diſſatisfy'd both with God's Government,
+<pb n="6" facs="tcp:64858:6"/> and <hi>Samuel's: They have not rejected Thee but Mee; i. e.</hi> not Thee, in effect, ſo much as Mee: Not that the miſchiefs He recounts neither are the inſepera<g ref="char:EOLhyphen"/>ble concomitants of, and for ſo a juſt exception to, all Monarchie; but of that abſolute, Arbitrary, and deſpotic Monarchie of the <hi>Nations round about them,</hi> which they particularly ſpecified in their re<g ref="char:EOLhyphen"/>queſt: And hence it is that He tells them of his <hi>taking their Sons, and appointing them for Himſelf, for his Chariots, and his Horſe-men: Of his taking their Daughters for Confectioners, Cooks, and Bakers: Of giving the best of their Fields, and their Vine yards to his Officers, Servants,</hi> &amp;c. And who but a dull ſtupid <hi>Jew</hi> could expect better Treatment, from ſuch a Lawleſs Form of Government as that?</p>
+            <p>If then the Arbitrary Laſhes of a <hi>Rehoboam's</hi> Scorpions, if the violent perverting of Juſtice, and Judgment in a Nation, if the breach of Faith, and the breach of Laws, if the Inſults, and Inſolencies of the bad, and cryes of the Innocent under their Oppreſſions, if the turning of all true Religion out of doors, the diſcountenanceing of Piety, and Vir<g ref="char:EOLhyphen"/>tue, and the triumphs of Atheiſm, Irreligion, and all manner of Impieties &amp;c. be juſt cauſe of the moſt ſenſible grief to the beſt part of a Nation,
+<pb n="7" facs="tcp:64858:6"/> to all thoſe who have any concern left them, for the Honour of God, there Religion, and there Country, then, in all humane appearance, will that Land, mourn, where the wicked bear rule; and that mourning fall with ſo much the more weight, and load upon the Land, by how much 'tis, ge<g ref="char:EOLhyphen"/>nerally, as to its cauſes, remedileſs and incurable. For tho I ſhall not here ſtay to determine whether it be lawful or no to check, and oppoſe ſuch Il<g ref="char:EOLhyphen"/>legal Violences by force, yet this much muſt be granted, that, generally ſpeaking, that kind of remedy equals the diſeaſe in the dangerouſneſs of its conſequences, and ſo the Land, under the Con<g ref="char:EOLhyphen"/>duct of ill Men, is inevitably doom'd to Miſery, and mourning, either through Oppreſſion on the one hand, or Anarchie, and Confuſion on the o<g ref="char:EOLhyphen"/>ther, without the eſpecial Intervention of ſuch an Extraordinary Providence, as our eyes have ſeen to come into its reſcue.</p>
+            <p>
+               <hi>Secondly.</hi> when the wicked bear rule, their ill Example rules alſo; and by its unhappy Influence, on too many men's previous Diſpoſitions that way, will give the Land juſt Occaſion of mourning: And, of the truth of this, we our ſelves have been no leſs notorious, than deplorable Inſtance. <hi>Fle<g ref="char:EOLhyphen"/>xibiles
+<pb n="8" facs="tcp:64858:7"/> in quamcunque partein ducimur à Principe!</hi> Says Pliny, <hi>atque ut it a dicam ſequaces ſumus</hi> &amp;c. We are flexible, and ductile as it were, whatſo<g ref="char:EOLhyphen"/>ever way our Prince leads us: For we naturally deſire Says He his approbation, and favour, which which we cannot hope for, whileſt our Manners are unlike his: And therefore, as the wiſe Son of <hi>Sirachs</hi> obſerves to the ſame purpoſe: <hi>As the Judge of the people is Himſelf, ſo are his Officers; and what manner of Man the Ruler of the City is, ſuch are all they that dwell therein.</hi> So that if he ſet up his Standard for the Devil, and in his Life pro<g ref="char:EOLhyphen"/>claim warr againſt him whom he repreſents, He ſhall not want Volunteers enough to come into his Service. The meer want of good ſenſe in ſome, the want of Moral Probity in others, a Profane and Irreligious Diſpoſition in a third ſort, and the hopes of favours, and Rewards in all, ſhall make not only Proſelytes to, but loud Applauders of, His Vices. His ſins ſhall in a competent time, extend their Dominion equal with his; and com<g ref="char:EOLhyphen"/>ing Authoriz'd, as it were, with the Royal ſtamp upon them, will paſs current amongſt his Subjects, and it ſhall come in time, to be look'd upon as a diſtinguiſhing Character of true Loyalty, to be
+<pb n="9" facs="tcp:64858:7"/> Vicious. And then tell mee if that Land will not have juſt Occaſion to mourn; firſt, for the ſake of the Diſhonour done to God by ſuch authentic, as I may ſay, Violations of his Laws, which muſt doubtleſs be matter of very ſenſible regret to all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe who have any generous Remains of Piety, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Religion left about them; and then ſecondly, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rough the fear of the Divine Vengeance upon a Land for ſuch impudent Provocations of him. For, if He has inflicted Severe Judgements upon a people for the ſins of their Governours only, as we ſhall ſee a non; how much ſtronger reaſon have we to expect, that they ſhall be conſum'd, if they do wickedly, <hi>both they and their King?</hi>
+            </p>
+            <p>
+               <hi>Thirdly</hi> then, <hi>When the wicked bear Rule the Land,</hi> in all probability will have juſt <hi>reaſon to mourn,</hi> becauſe God often times avenges the Ini<g ref="char:EOLhyphen"/>quitys of a Prince upon his People, as the Mem<g ref="char:EOLhyphen"/>bers frequently ſuffers through the diſorders of the Head: For if we remark ſtrictly upon the Hiſtory of the Jewiſh Kings<g ref="char:punc">▪</g> we ſhall find that the Prince and the People have been mutually puniſh'd or rewarded, for the Sins, or the Virtues of each other. For as it is not unuſual with Providence to pun<g ref="char:EOLhyphen"/>iſh
+<pb n="10" facs="tcp:64858:8"/> Princes, by infatuateing their Councels, and turn<g ref="char:EOLhyphen"/>ing them into Folly, by blaſting their Endeavours, overthrowing them in Battel, &amp;c. For the Sins of their People: So, on the other hand, does the <hi>Old Teſtament-Hiſtory</hi> afford us ſeveral Inſtances of ſevere Inflictions upon the People, for the Sins of their Rulers.</p>
+            <p>Thus <hi>Saul</hi>'s cruelty to the <hi>Gibeonites</hi> was re<g ref="char:EOLhyphen"/>venged upon his People, with three Years Fa<g ref="char:EOLhyphen"/>mine in the Land; and you all remember, I pre<g ref="char:EOLhyphen"/>ſume, the Inſtance of <hi>David</hi>'s Sin in numbering the People, to this purpoſe: Now, thô it is ſaid that <hi>Satan ſtood up againſt Iſrael to provoke David</hi> to do this thing, and that He himſelf acquits the People of the guilt, in that compaſſionate Expoſta<g ref="char:EOLhyphen"/>lation of His with the Almighty: <hi>Is it not I that commanded the people to be Numbred? Even I it is that have ſin'd, but for theſe Sheep, what have they done:</hi> Yet, notwithſtanding all this, I ſay, the Lord ſent a Peſtilence upon the People, ſo that there fell of Iſrael Seventy Thouſand men. (1. <hi>Chron.</hi> 21.) Thus again, the Pride, and Ingratitude which that good King, <hi>Hezekiah,</hi> chanc'd to ſtain his Memory with, upon his deliverance from <hi>Senacherib's</hi> Arms, was aveng'd, not on himſelf ſinguly, but on his
+<pb n="11" facs="tcp:64858:8"/> Subjects likewiſe; For, becauſe<g ref="char:punc">▪</g> Hezekiah <hi>rendr'd not again according to the benefis done unto him, but his heart was lifted up, therefore</hi> ſays the Text, <hi>there was Wrath upon him,</hi> and not upon him only, but upon <hi>Judah alſo, and Jeruſalem,</hi> (2. Chron. 32. 25.) And 'tis peculiarly obſervable of the Sins of <hi>Manaſſeh,</hi> that<g ref="char:punc">▪</g> they left ſuch an indelible ſtain of Guilt upon his Country, that notwithſtanding all <hi>Joſiah</hi> did to waſh it off, and propitiate an Incenſ<g ref="char:EOLhyphen"/>ed Deity by purging out that Idolatry which heſo much hated, yet it is ſaid, for all that, <hi>the Lord turn<g ref="char:EOLhyphen"/>ed not from the Fierceneſs of his great wrath, where<g ref="char:EOLhyphen"/>with his Anger was kindled against Judah,</hi> (the whole People) <hi>becauſe of all the provocations that</hi> (not only they, but) <hi>Manaſſeh</hi> (their King) <hi>prc<g ref="char:EOLhyphen"/>voked him with all.</hi> (2 Kings 23. 26.) Such a Curſe and a Plague may on evil Prince entail upon a Land for Generations after Him: So ſad, and laſt<g ref="char:EOLhyphen"/>ing an Occaſion may it have to mourn for the wick<g ref="char:EOLhyphen"/>edneſs of them that bear Rule in it. Much more might be added upon this argument, and much more upon the recent Experience of ſome later Years, but I draw the Veil: And haſten from this dark to the bright ſide of the Cloude, to the reverſe of this Melancholy part of the Text; <hi>The Rejoyceing of
+<pb n="12" facs="tcp:64858:9"/> the People, when the Righteous are in Authority.</hi> Which was the ſecond thing to be conſidered. And indeed the preſent Solemnity, is an ample com<g ref="char:EOLhyphen"/>ment upon this part of the Text: But, more par<g ref="char:EOLhyphen"/>ticularly.</p>
+            <p>
+               <hi>First,</hi> it cannot but be matter of rejoyceing to all good Men (and it matters not for the reſt) to ſee the very Honour done to Virtue, by place<g ref="char:EOLhyphen"/>ing Her on the Throne, and putting the Crown, as it were upon Her <hi>head;</hi> For thô ſhe really re<g ref="char:EOLhyphen"/>flects more true Honour upon Princes who pro<g ref="char:EOLhyphen"/>feſs Her, than they can poſſibly reflect back again upon Her, and ſhe looks well whereſoever ſhe dwells, yet it cannot but be a proſpect more than ordinarily agreable to thoſe who have any juſt Senſe of Her worth, to ſee Her cohabit with Crowned heads, and goe hand in hand with Majeſty; For then, the moves in a Sphere worthy of Her, and ſuitable to Her high Quality, for ſhe's near allied to Heaven, and ſo ought, above all things elſe, to be reſpected, and preferr'd at Court. And as any Man is naturally apt to rejoyce upon the promo<g ref="char:EOLhyphen"/>tion of his Friend, So needs muſt a good Man be exceedingly tranſported, to ſee his good Old-friend, and Antiquated Acquaintan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:punc">▪</g> that true Piety and
+<pb n="13" facs="tcp:64858:9"/> Vertue in whoſe Society, He has all along delight<g ref="char:EOLhyphen"/>ed, advanc'd at Court, and brought back again into favour and faſhion.</p>
+            <p>
+               <hi>Secondly,</hi> when Righteouſneſs and Authority dwell together, the people, in all probability, will have juſt Occaſion to rejoyce, by reaſon of thoſe many Bleſſing which are like to deſcend upon the ſtate, from ſo happy a Conjunction; and this both from the natural Tendencies of the thing it ſelf to render a Nation happy; and from the Divine fa<g ref="char:EOLhyphen"/>vour proſpering, and going along with a Govern<g ref="char:EOLhyphen"/>ment ſo much after his own heart.</p>
+            <p>
+               <hi>Firſt,</hi> From the Natural Tendency of the thing it ſelf to render a Nation happy. For, righteouſ<g ref="char:EOLhyphen"/>neſs, or the Exerciſe of true Religion caſts a very favourable Aſpect upon the Temporal Happineſs of a people, in as much as it moſt effectually re<g ref="char:EOLhyphen"/>commends, and promotes the practiſe of thoſe vir<g ref="char:EOLhyphen"/>tues, which of themſelves, carry a mighty ſtroke in the preſervation of a people, ſuch as Humility, Contentedneſs of mind, Obedience to Superiors, mutual Concord, and Amity, true fortitude, and Reſolution of mind, Induſtrie &amp;c. and as power<g ref="char:EOLhyphen"/>fully diſcourages thoſe contrary Vices, which na<g ref="char:EOLhyphen"/>turally tend to the diſolution of that Society where
+<pb n="14" facs="tcp:64858:10"/> they reign, ſuch are Pride, Diſſatisfactions, Re<g ref="char:EOLhyphen"/>fractorineſs, Hatreds, Variance, Voluptuouſneſs, Co<g ref="char:EOLhyphen"/>wardice, Idleneſs &amp;c. and indeed, all vice in the General carries Confuſion along with it, were there no Juſtice above to look on, and puniſh it.</p>
+            <p>
+               <hi>Secondly,</hi> from the Divine favour ſhineing upon a Government ſo much after his own heart. For Rightouſneſs in Authority will engage the Bleſſings, and Protection of Him <hi>who loveth righteouſneſs</hi> on its behalf. For if He is many times propitious to par<g ref="char:EOLhyphen"/>ticular perſons here upon the obſervance of his Laws tho' many times indeed He deferrs the payment till the General Audit of all the Earth, when every work ſhall receive its full recompence of reward; how will He not be much more ſo to a <hi>Nation</hi> fearing God, and working Righteouſneſs? eſpe<g ref="char:EOLhyphen"/>cially ſince a Nation, as ſuch, cannot, as parti<g ref="char:EOLhyphen"/>cular perſons may, be Recompenc'd in the other world, where all Political Relations are diſſol'd and a done way. And what ſure ground of rejoyce<g ref="char:EOLhyphen"/>ing muſt this be to a people, to have juſt reaſon to believe that they have obleig'd him, who is the great, and ſole Arbiter of all Succeſs, upon whoſe pleaſure alone, when Men have done what they can, all Events depend, and whoſe ſole Fiat, all
+<pb n="15" facs="tcp:64858:10"/> the United world is not able to reverſe? For, <hi>Who hath reſisted his will? Or, who hath harden'd Him<g ref="char:EOLhyphen"/>ſelf against Him, and hath proſper'd?</hi>
+            </p>
+            <p>And now, if the Publick weal, upon both theſe Accounts, have ſo cloſe a dependance upon the practiſe of true Piety and Virtue; how highly does that Prince contribute thereunto, and conſequently, to the rejoyceing of his People, who enjoyns Vir<g ref="char:EOLhyphen"/>tue by his Laws, recommends it by his Practiſe, and ſpreads it ore the Nation, by the powerfull argu<g ref="char:EOLhyphen"/>ment of an Illuſtrous Example? <hi>Vita Principis cenſura est,</hi> ſayes <hi>Pliny,</hi> the Prince's Life is a taxing of other Men's. <hi>Ad hanc dirigimur, ad hanc convertimur, nec tàm imperio nobis opus est quàn exemplo.</hi> 'Tis this by which we Steer our courſe of Life, nor do we ſo much need His Command, as His Example; for He being the Fountain of Honours, and Rewards, Diſ<g ref="char:EOLhyphen"/>grace, &amp; Puniſhments, His Example cannot well fail, for that very reaſon, of a ſerious Imitation from His Subjects. So that inſuch an Auſpicious Reign as this that we figure to our ſelves, and which we are not without hopes but we may yet ſee beyond <hi>Idea,</hi> how ſhall true Piety erects her depreſſed head? And be be no more daſh'd out of Countenance by thoſe lewd <hi>Buffoons,</hi> who think they Confute all they
+<pb n="16" facs="tcp:64858:11"/> rail, or laugh at! And how, upon her Score, (for She never goes alone) ſhall all other Temporal Bleſſings flow in upon a People! Senſe, and Rea<g ref="char:EOLhyphen"/>ſon ſhall be no longcr muzzeal'd by Prejudice, and Folly, (And 'tis no ſmall comfort to a<g ref="char:punc">▪</g> Man to dare to aſſert the truth) Violence and Oppreſſion ſhall give way to Juſtice, and Propriety be ſecured to e<g ref="char:EOLhyphen"/>very Man under his own Vine, and his own Fig-tree The Intereſt of the Prince and People ſhall be no more Disjoynt'd, but flow in one common Channel. Their Armes ſhall proſper whitherſoever they car<g ref="char:EOLhyphen"/>ry them, there ſhall be no leading into Captivity, and one would think, there ſhould be no complain<g ref="char:EOLhyphen"/>ing in their Streets: <hi>Righteouſneſs and peace ſhall kiſs each othor, (for when a Mans ways pleaſe the Lord, He maketh even his Enemies to be at peace with him.) God ſhall give</hi> ſuch a People <hi>his bleſſing, and their Land ſhall yeeld her increaſe:</hi> Happy ſhall the People be that <hi>are in ſuch a caſe,</hi> that live in ſuch a Reign; for, ſuch Righteouſneſs as this will eſtabliſh the Throne; mauger all the little driveling Artifi<g ref="char:EOLhyphen"/>ces of Domeſtick, and the more powerful Forces of Forreign Enemies, to ſubvert it.</p>
+            <p>
+               <hi>Thirdly,</hi> when the Righteouſnes of the Text, <hi>i. e.</hi> true Piety, and Virtue is in Conjunction with Autho<g ref="char:EOLhyphen"/>rity,
+<pb n="17" facs="tcp:64858:11"/> the People ſhall rejoyce, becauſe the Divine Wiſdom and Goodneſs will, in all probability direct the Counſels, and proſper the endeavours of the Prince for his own, and the Publick welfare. Their Employ is arduous, their Province highly difficult. Their Deli<g ref="char:EOLhyphen"/>berations are converſant about things noleſs intricate in themſelves, than uncertain in their conſequences, &amp; events; (For the Race is not always to the ſwift<g ref="char:punc">▪</g> nor the Battel to the Strong.) The grand Veſſel of the Publick-weal, which theſe Pilotes ſteer, is ſubject to be ſplit upon ten thouſand Rocks; and lyable to many a tempeſtous Storm, and thoſe too raiſed both within, and from without the Veſſel; For ſo it is that the very Paſſengers many times that are in Her, thô their ſafety too depends upon Her preſer<g ref="char:EOLhyphen"/>vation, are yet but too forward, ſome of them through a narrow, but miſtaken Spirit, to indeavour only the ſaving of their own cabin, others through envy, Malice &amp;c. to make leeks in her, and and ſink her, if they can; ſo that a man, all conſider'd, has juſt reaſon to cry out with Sr. <hi>Paul</hi> upon another Occa<g ref="char:EOLhyphen"/>ſion, <hi>Who of Himſelf is ſufficient for theſe things?</hi> None but he <hi>who ruleth the rageing of the Sea, and the madneſs of the People.</hi> And therefore they, of all Men liveing, have need of <hi>an underſtanding heart;
+<pb n="18" facs="tcp:64858:12"/> of</hi> the <hi>Spirit of Councel, and of the Spirit of Judgment;</hi> of that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that Heroicke Princely Spirit, as the <hi>Septuagint</hi> render it, (<hi>Pſal. 51. v.</hi> 12.) which enables Men for Great, and Generous under<g ref="char:EOLhyphen"/>takeings: And if theſe Divine Aſſiſtances of Wiſ<g ref="char:EOLhyphen"/>dom, Conduct, and Courage are ſo entirely requiſite to the right management of the nice, and difficult province of a Ruler, it will not, I preſume, be denied me, that the Righteous in Authority ſtand fairer for them than the wicked: And then whatſoever Happy<g ref="char:EOLhyphen"/>neſs, by this meanes, befalls ſuch a Prince, is neceſſa<g ref="char:EOLhyphen"/>rily derived down to the meaneſt of his People<g ref="char:punc">▪</g> His Reputation, is theirs: His Glory theirs: His Suc<g ref="char:EOLhyphen"/>ceſſes, theirs: His Gains, theirs in as much as their Intereſts are now upon the ſame common bottom, and it cannot be ſuppoſ'd, but that, next under God, who directed him, and his own Perſonal Conduct, their Aid, and Aſſiſtances contributed to all His Acquiſitions: So that what St. <hi>Paul</hi> ſays in relation to the members of the body, and of the Church, holds equally ſtrong in caſe of a Righteous man, become the <hi>head</hi> Politick of a Nation: <hi>If that be honoured, all the members rejoyce with it.</hi> I have only to add in the <hi>4th.</hi> and laſt place, That you need but at your leiſure peruſe your <hi>Bibles,</hi> and ſo ſu<g ref="char:EOLhyphen"/>perſede
+<pb n="19" facs="tcp:64858:12"/> me the Labour here, to furniſh you with pregnant inſtances of ſuch Princes, as through their excellent virtues have derived down happineſs to their people, I ſhall only, more particularly re<g ref="char:EOLhyphen"/>mark, that the Divine Goodneſs has been pleaſ'd to expreſs that Special regard to the Righteouſneſs of ſome Princes, as perticularly to that of King <hi>David's,</hi> that He allow'd it the priviledge to en<g ref="char:EOLhyphen"/>tail a bleſſing upon the Land for Generations after him. <hi>Howbeit</hi> ſays he, upon Occaſion of <hi>Solomon's</hi> provocations of him, <hi>I will not rend away all the Kingdome; but will give one tribe to thy ſon, for David my Servant's ſake. (1 Kings.</hi> 11. 13.) And when long after in the days of <hi>Hezekiah,</hi> when <hi>Sen<g ref="char:EOLhyphen"/>nacherib</hi> laid ſiege to the City which He had cho<g ref="char:EOLhyphen"/>ſen to put his name there, He <hi>ſaved it</hi> ſays <hi>Iſaiah, for his own ſake, and for his Servant David's ſake<g ref="char:punc">▪</g> (Iſa. 37. v.</hi> 35.) Such a durable bleſſing did the Piety of one ſingle Prince bequeath to the people.</p>
+            <p>And now, leſt I ſhould be thought hitherto to have ſlurr'd over the Occaſion of the Day, (thô I have not neither) and ſo to have affronted both God, and the King; God, the great, and ſupreme Author of our happyneſs; and the King, His In<g ref="char:EOLhyphen"/>ſtrument;
+<pb n="20" facs="tcp:64858:13"/> who, with good <hi>Jehoſhaphat</hi> returning from battel, commands us this Day to repair <hi>unto the Houſe of the Lord, becauſe He has made us to re<g ref="char:EOLhyphen"/>joyce over our Enemies: I</hi> ſhall therefore add a few words concerning the Preſent Occaſion of our re<g ref="char:EOLhyphen"/>joyceing, and ſhew that it <hi>becometh well</hi> all <hi>the Juſt</hi> Honeſt Men in the Nation this Day, <hi>to be thank<g ref="char:punc">▪</g>full.</hi> Thankfull for ſuch a King; thankfull for ſuch a Delivernce.</p>
+            <p>For, <hi>First,</hi> If we reſpect Him whom God has ſet over us, what is there wanting in Him, to render Him a moſt compleat Prince, and the Nation as com<g ref="char:EOLhyphen"/>pleatly happy under him.</p>
+            <p>What is there wanting in Him, to recommend Him even to ſome of our own Nation? For his Virtues and Exploits have done it long ago to all the World beſide: The one has made Him the ter<g ref="char:EOLhyphen"/>ror of his Enemies; The other the Darling of his Friends: And both together have purchaſed him a Renown, like the Jewels of His Crown, both bright and Solid too.</p>
+            <p>Look we upon the Juſtice of His Reign; What Violence is there done in it, unleſs indeed, it be that which He Offers, (might I ſo ſpeak) to Juſtice Her ſelf, through the extraordinary Clemency of his Nat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re?</p>
+            <pb n="21" facs="tcp:64858:13"/>
+            <p>Look we upon His Wiſdom in Deliberation, 'Tis like ſome great River, the ſilence, and ſtilneſs of whoſe Courſe is owing to the deepneſs of its Channel.</p>
+            <p>Look we upon His Vigour in Action; The Lightning of his own Canon's ſcarce more quick, nor an hungry Lyon more fearleſs than He<g ref="char:punc">▪</g> that Inſomuch we have juſt reaſon to ſay unto the King, what the Men of <hi>David</hi> ſware to Him, after his Victory ouer the Philiſtines: <hi>Thou ſhalt go no more out with us to Battle, that thou quench not the light of Iſrael<g ref="char:punc">▪</g> (2. Sam.</hi> 21. 17.) And when it had pleaſed the great Lord of Hoſts to bleſs ſuch perſonal Proweſs and Conduct with ſucceſs; ſee with what Gentleneſs and Moderation He us'd the Victo<g ref="char:EOLhyphen"/>ry God had given Him, how the Chriſtian preſently overcame the man, and the Natural Lenity of his Temper conquer'd the Conqueror. He purſu'd His ſcatte'd Enemies indeed, but with the mildneſs of Declarations, not the edge of the Sword, <hi>Laſtly,</hi>
+            </p>
+            <p>Look we upon Him in his Devotions; And His Behaviour looks as if His Kingdom were no longer of this World, but He were expecting every hour to be tranſlated to a better. His Religion is our own, (and when could we truly ſay ſo of a Prince before?) that of our Excellent, and Eſtablis'd
+<pb n="22" facs="tcp:64858:14"/> Church; and thô his Enemies were pleas'd to fling out ſome ſurmiſes to the contrary, fooliſhly endea<g ref="char:EOLhyphen"/>vouring to blacken the Sun, yet they conſider'd not that the Prejudices of Education, which ſtick ſo cloſe by, and clap ſo Fatal a by aſs upon other men, could not prevail over a Judgment ſo pierceing to diſcern the truth, and a Mind ſo invincibly reſolv'd to de<g ref="char:EOLhyphen"/>fend it. And how then are we obliged, upon all theſe Accounts, to accoſt the King in Tertullies his Rhe<g ref="char:EOLhyphen"/>toric to Felix <hi>Seeing that by Thee we ensoy great qui<g ref="char:EOLhyphen"/>etneſs; and that very worthy deeds are done unto this Nation, by thy providence: We accept it alwayes, and in all places most Noble Prince, with all Thankfull<g ref="char:EOLhyphen"/>neſs.</hi> Remembring always that God expects re<g ref="char:EOLhyphen"/>turns of gratitude, not only to Himſelf, but to the glorious Inſtruments likewiſe which he is pleaſed to make uſe off in accompliſhing the Deliverance of a People; As it is reprochfully ſaid of <hi>Iſarel,</hi> not one<g ref="char:EOLhyphen"/>ly that <hi>they remembered not the Lord their God, who had delivered them out of the Hands of all their Ene<g ref="char:EOLhyphen"/>mies on every ſide; but that they ſhewed no kindneſs to the Houſe of Jerubbaal, namely Gideon,</hi> (who had been his Inſtrument in it.) <hi>According to a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the good<g ref="char:EOLhyphen"/>neſs which He had ſhewed unto Iſrael.</hi> Jud. 8. 34, 35.</p>
+            <pb n="23" facs="tcp:64858:14"/>
+            <p>I ſaid, <hi>Secondly,</hi> It would well become us to re<g ref="char:EOLhyphen"/>joyce and be thankfull upon the Score of the great Deliverance, which the King, under God, has wrought for Us. Imagine but that you ſee the Sword going through the Land, wearied, and blunted by deſtructi<g ref="char:EOLhyphen"/>on; and Dragoons uſurping the Office of Apoſtles with the cruelty of their Perſecutors: Imagine your holy Religion raviſh'd from you<g ref="char:punc">▪</g> and turn'd out of doors, and this Excellent Church made a Prey, and a Scorn to the dulleſt Impudence, and the vileſt Superſtition; and in a word, all <hi>Europe</hi> Enſlaved to the mercileſs Tyrany of one great <hi>Leviathan,</hi> who takes his Paſtime therein, in Scenes of Blood, and Deſolation: Go aske in <hi>France,</hi> and <hi>Piedmont</hi> in <hi>Ireland;</hi> Inquire of the <hi>Inquiſition,</hi> and then give me an aeſtimate of our Deliverance. But I'le dwell no longer upon this Argument. He who is not at this day ſenſible of the inſeperable attendants upon thoſe twins of <hi>Popery</hi> and <hi>Arbritrary-Power</hi> doubt<g ref="char:EOLhyphen"/>leſs one of thoſe who would fain repreſent the little Finger of a Tax rais'd to keep them out, heavier than both their Loins, is proof againſt all reaſon and experience, and boldly out-faces all mankind; and pittie it is but He were taught them, as <hi>Gideon</hi>
+               <pb n="24" facs="tcp:64858:15"/> taught the men of Succoth <hi>with Briers and Thorns.</hi> Judges, 8. 16.</p>
+            <p>We may likewiſe Farther, to excite our thank<g ref="char:EOLhyphen"/>fulneſs upon this joyfull Occaſion, recollect the ſeveral appearanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of God's finger through many of the Periods of this great Affair; as, that a De<g ref="char:EOLhyphen"/>ſign of ſuch Importance, and which we ſince find was communicated to ſo many, ſhould yet be car<g ref="char:EOLhyphen"/>ried on with ſuch Secrecy, and Reſerv'dneſs, that farr the greateſt part of the Nation was ſurpriz'd into Safety: That the counſels of our enemies <hi>Achitophels</hi> was turn'd into ſuch groſs folly, as to help on the Advancement of that, which they ſo zealouſly ſought to deſtroy: That the Nation, as debaucht as it was, by their means and Artifices, could not yet be corrupted, or putrified (I may ſay) into <hi>Popery:</hi> That a great, and formidable Army ſhould ſcatter and diſperſe it ſelf, almoſt without Oppoſition: That the breath of the Winds, were lately, ſo ſuddenly ſtopt, and their Mouth's turn'd quite another way, to ſave our Fleet, and us from deſtruction: That another Numero<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Army ſhould be ſeized with a ſort of panick fear<g ref="char:punc">▪</g> before any juſt cauſe of fear overtook them. Theſe, I ſay, together with the preſervation of the King's
+<pb n="25" facs="tcp:64858:15"/> Perſon, in ſuch Eminent, hazards, and ſeveral other particulars, that need not to be enumerated, are ſuch plain Signatures, and Characters of an Imme<g ref="char:EOLhyphen"/>diate Interpoſal from above, that a man may verily ſay, <hi>This is the Day which the Lord hath made, we will rejoyce, and be glad in it.</hi> And long may the happy Occaſion of this Day, not only endure, like the day of <hi>Joſuah,</hi> when the Sun ſtood ſtill in <hi>Gibeon,</hi> and the Moon in the Valley of <hi>Ajalon,</hi> but like the Sun its ordinary courſe, ariſe, in due time, to its <hi>Zenith,</hi> make a perfect day, and bleſs all the Confederate Regions with Its warmth, and influ<g ref="char:EOLhyphen"/>ence. May the glorious Occaſion of it be joyn'd with the days of Heaven, and be meaſur'd toge<g ref="char:EOLhyphen"/>ther with Eternity. Bleſſed, then, be God, who hath not caſt out our Prayer, nor turn'd his Mercy from us, but hath turned our faſting into feaſting, and our heavineſs into joy; who hath put off our ſack<g ref="char:EOLhyphen"/>cloth, and girded us with gladneſs.</p>
+            <p>Bleſſed be God who hath not deliver'd us up as a prey unto our Enemies teeth, nor hath made thoſe that hate us Lords over us; but hath turn'd the Captivity of our <hi>Sion,</hi> preſerv'd our Religi<g ref="char:EOLhyphen"/>on, and continued the Eſtabliſhment of our Church.</p>
+            <pb n="26" facs="tcp:64858:16"/>
+            <p>Bleſſed, laſtly, be God, (and let all the people ſay <hi>Amen</hi>) who hath delivered the King, and Servant. From the peril of the Sword, and has given Him Victory in the battle. <hi>Even ſo. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>EPiſt. Dedicat. line 4. r. <hi>Auditors.</hi> l. the laſt, r. <hi>Prayer.</hi> pag. 1. l. 8. for <hi>here</hi> r. <hi>ſure.</hi> p. 2<g ref="char:punc">▪</g> l. 11. for <hi>this</hi> r. <hi>the.</hi> p. 4. l. the laſt but two, for <hi>whatſoever</hi> r. <hi>howſoever.</hi> p. 5. l. 14. for <hi>theſe</hi> r. <hi>thoſe.</hi> p. 6. l. 4. blot out <hi>for,</hi> and read <hi>ſo far.</hi> p. 10. l. 12. blot out <hi>now,</hi> and read <hi>where.</hi> p. 11. l. 15. blot out <hi>onely.</hi> and l. 17. for <hi>on</hi> r. <hi>an.</hi> p. 14. r. <hi>done away.</hi> p. 16. l. 4. r. <hi>muzzel'd,</hi> l. 10. r. <hi>disjoynted.</hi> p. 21. l. 7. blot out <hi>that,</hi> and read <hi>inſomuch that.</hi> p. 22. l. 9. r. <hi>Tertullus,</hi> l. 10. r. <hi>enjoy.</hi> p. 23. l. 20. r. <hi>is one.</hi> p. 26. l. 2. for <hi>and</hi> r. <hi>his.</hi>
+            </p>
+            <pb facs="tcp:64858:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
